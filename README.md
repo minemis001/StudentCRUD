@@ -2,8 +2,8 @@
 
 Latihan/case study materi **Thread dan Database pada Java** (5C - Java Coding Practice - Thread and Database - 2026).
 
-**NIM:** (F1D02410100)
-**Nama:** (Ahmad Yadan Ulya Munaji)
+**NIM:** F1D02410100
+**Nama:** Ahmad Yadan Ulya Munaji
 
 ## Deskripsi
 
@@ -66,19 +66,19 @@ StudentCRUD/
 ## Screenshot
 
 ### 1. Tampilan awal (status Ready)
-![Tampilan awal](screenshot/01-ready.png)
+![Tampilan awal](screenshot/ready.png)
 
 ### 2. Proses menyimpan (tombol disabled + label "Saving...")
-![Saving](screenshot/02-saving.png)
+![Saving](screenshot/saving.png)
 
 ### 3. Setelah tersimpan (UI diperbarui lewat invokeLater)
-![Saved](screenshot/03-saved.png)
+![Saved](screenshot/saved.png)
 
 ### 4. Data tersimpan di database (phpMyAdmin)
-![Database](screenshot/04-database.png)
+![Database](screenshot/database.png)
 
 ### 5. Update data
-![Update](screenshot/05-update.png)
+![Update](screenshot/update.png)
 
 ### 6. Delete data
-![Delete](screenshot/06-delete.png)
+![Delete](screenshot/delete.png)
